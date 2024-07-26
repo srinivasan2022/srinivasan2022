@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 - About Me 🙋‍♂️
 
-> I am a recent Computer Science Engineering graduate with a keen interest in cloud computing, particularly in the **Microsoft Azure ecosystem**. Currently interning as a Cloud Engineer at **Cloudslize**, I am dedicated to expanding my knowledge and expertise in **Azure** technologies while contributing to real-world projects.
+> I am a Computer Science Engineering graduate with a deep passion for cloud computing, particularly within the **Microsoft Azure ecosystem**. Currently interning as a Cloud Engineer at **Cloudslize**, I am committed to deepening my expertise in **Azure** technologies and actively contributing to impactful real-world projects.
 
 
 
