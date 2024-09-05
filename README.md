@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CloudSlize.
 - 🌱 I’m currently learning Cloud Services(Microsoft Azure), Terraform
 - ⚡I completed my first terraform task 👉[Terraform IaC Azure VNET, Subnet, NSG and Association automation](https://github.com/srinivasan2022/Terraform_Homework).
+- ⚡I have completed the [Hub and Spoke network topology in Azure](https://github.com/srinivasan2022/Azure_Hub_and_Spoke) using Terraform.
 
 - 💬 Ask me about ...
 - 📫 How to reach me :
